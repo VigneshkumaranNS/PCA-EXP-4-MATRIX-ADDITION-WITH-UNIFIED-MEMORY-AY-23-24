@@ -2,7 +2,7 @@
 
 <h3>ENTER YOUR NAME : VIGNESH KUMARAN N S</h3>
 <h3>ENTER YOUR REGISTER NO : 212222230171</h3>
-<h3>DATE:</h3>
+<h3>DATE: 04/10/2024</h3>
 <h2> <align=center> MATRIX ADDITION WITH UNIFIED MEMORY </h2>
   Refer to the program sumMatrixGPUManaged.cu. Would removing the memsets below affect performance? If you can, check performance with nvprof or nvvp.</h3>
 
@@ -39,7 +39,7 @@ Allocate Host Memory
 
 ## PROGRAM:
 
-```C
+```cuda
 %%cuda
 #include <stdio.h>
 #include <cuda_runtime.h>
